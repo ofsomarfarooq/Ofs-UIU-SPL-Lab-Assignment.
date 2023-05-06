@@ -1,0 +1,5 @@
+Toyota Camry 2019 25000.00
+Honda Civic 2020 22000.00
+Ford Mustang 2018 32000.00
+Chevrolet Corvette 2021 70000.00
+Tesla ModelS 2022 80000.00
